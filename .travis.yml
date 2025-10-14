@@ -14,7 +14,7 @@ script:
 deploy:
   provider: elasticbeanstalk
   region: us-east-1
-  app: swe1-app
+  app: django_tutorial
   env: swe1-app-env
   bucket_name: elasticbeanstalk-us-east-1-981381909034
   on:
