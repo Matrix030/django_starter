@@ -1,7 +1,7 @@
 # swe1-app
 
 [![Build Status](https://app.travis-ci.com/Matrix030/swe1-app.svg?token=WHHjuyD4b8zGdFuFp8yp&branch=master)](https://travis-ci.com/Matrix030/swe1-app)
-[![Coverage Status](https://coveralls.io/repos/github/Matrix030/swe1-app/badge.svg?branch=master)](https://coveralls.io/github/Matrix030/swe1-app?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Matrix030/swe1-app/badge.svg?branch=test-branch)](https://coveralls.io/github/Matrix030/swe1-app?branch=test-branch)
 
 Django polls application with continuous integration and deployment.
 
